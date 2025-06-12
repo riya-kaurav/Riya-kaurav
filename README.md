@@ -1,16 +1,14 @@
-## Hi there 👋
+h1 align="center">Hi 👋, I'm Riya Kaurav</h1>
+<h3 align="center">Aspiring Software Developer | MERN Stack Developer | DSA Enthusiast</h3>
 
-<!--
-**riya-kaurav/Riya-kaurav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Welcome+to+my+GitHub+profile!;Passionate+about+Web+Development+%26+DSA!" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+
+```python
+def say_hi():
+    print("Thanks for visiting my GitHub! 🚀")
