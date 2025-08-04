@@ -18,12 +18,6 @@ In my free time, I enjoy writing poems, reading books ,solving coding problems, 
 
 
 
-- 📚 Currently Learning: MERN Stack, DSA, Competitive Programming  
-- 🛠 Building: Real-world full stack projects  
-- 🔥 Focused on: Mastering core skills & preparing for tech internships  
-- 🌐 Exploring: Freelancing & Open Source  
-- 🧠 Motto: *Code. Learn. Create. Share.*
-
 ---
 
 ### 🧰 Languages & Tools
