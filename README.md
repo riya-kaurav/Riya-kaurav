@@ -8,11 +8,6 @@
 
 ---
 
-### ✨ About Me
-
-Hi, I'm **Riya Kaurav** — a passionate tech enthusiast and B.Tech student at **MITS Gwalior**, currently exploring the world of **Full Stack Web Development (MERN)** and **Data Structures & Algorithms**.  
- 
-In my free time, I enjoy writing poems, reading books ,solving coding problems, and building cool projects!
 
 ---
 
