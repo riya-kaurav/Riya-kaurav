@@ -7,14 +7,13 @@
 
 
 
-## ✨ About Me
+##  # About Me
 
  2nd year engineering student focused on building full stack
  applications, backend engineering, and problem solving.
 
 
-
-## 🚀 Tech Stack
+## # Tech Stack
 
 ```js
 const riya = {
@@ -30,5 +29,8 @@ const riya = {
 
 ```
 
+ <p align="center">
+  <em>"Code to me is like poetry to a poet."</em>
+</p>
 
 
