@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="https://your-generated-gif-link.gif" alt="Hi there, I'm Riya Kaurav in motion">
-</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=28&duration=3000&pause=800&color=000000&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Riya+Kaurav" />
+</h1>
 
 
 
