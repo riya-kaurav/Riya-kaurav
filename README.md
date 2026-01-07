@@ -1,4 +1,5 @@
-# Hi there, I'm Riya Kaurav 👋
+# Hi there, I'm Riya Kaurav <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
 
 
 
@@ -27,10 +28,5 @@ const riya = {
 
 ```
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=riya-kaurav&show_icons=true&hide_title=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=riya-kaurav)
 
 
