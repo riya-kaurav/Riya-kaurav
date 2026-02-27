@@ -6,7 +6,7 @@
 2nd year **engineering** student focused on building **full-stack applications**, **backend engineering**, and **problem solving**.
 
 
-```
+
 
  <p align="center">
   <em>"Code to me is like poetry to a poet."</em>
