@@ -8,8 +8,5 @@
 
 
 
- <p align="center">
-  <em>"Code to me is like poetry to a poet."</em>
-</p>
-
+ 
 
